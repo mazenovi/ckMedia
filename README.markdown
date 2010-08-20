@@ -1,4 +1,4 @@
-h1. Installation
+# Installation
 
 * download ckMedia archive (http://forge.clermont-universite.fr/attachments/download/64/media.zip)
 * unzip it in CKEditor plugins folder
@@ -25,9 +25,9 @@ h1. Installation
 config.menu_groups = 'clipboard,form,tablecell,tablecellproperties,tablerow,tablecolumn,table,anchor,link,image,flash,checkbox,radio,textfield,hiddenfield,imagebutton,button,select,textarea,removeMedia';
  </pre>
 
-h1. License MIT
+# License MIT
 
-h2. Bug fixes & new Features
+## Bug fixes & new Features
 
 2010/06/07
 
