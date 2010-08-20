@@ -1,4 +1,4 @@
-                                                                     h1. Installation
+h1. Installation
 
 * download ckMedia archive (http://forge.clermont-universite.fr/attachments/download/64/media.zip)
 * unzip it in CKEditor plugins folder
